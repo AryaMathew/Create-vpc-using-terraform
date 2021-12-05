@@ -4,5 +4,5 @@ Vpc creating using terraform
 It tells a file using [Data Sources](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/regions), [cidrsubnet](https://www.terraform.io/docs/language/functions/cidrsubnet.html) to use with Terraform to create a VPC
 
 ## Prerequisites
--[Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/aws-get-started)
--[AWS Access Key and Secret Key](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html)
+- [Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/aws-get-started)
+- [AWS Access Key and Secret Key](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html)
