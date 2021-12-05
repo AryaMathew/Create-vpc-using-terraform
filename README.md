@@ -12,11 +12,7 @@ It tells a file using [Data Sources](https://registry.terraform.io/providers/has
 - Clone repo
 - 
 `$ git clone https://github.com/AryaMathew/Create-vpc-using-terraform.git`
-
-$ cd Create-vpc-using-terraform/
-
-$ terraform init
-
-$ terraform validate
-
-$ terraform apply`
+`$ cd Create-vpc-using-terraform/`
+`$ terraform init`
+`$ terraform validate`
+`$ terraform apply`
