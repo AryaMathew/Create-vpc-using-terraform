@@ -27,4 +27,3 @@ It tells a file using [Data Sources](https://registry.terraform.io/providers/has
 $ terraform validate
 $ terraform apply
 
-
