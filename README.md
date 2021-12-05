@@ -23,12 +23,15 @@ It tells a file using [Data Sources](https://registry.terraform.io/providers/has
 
 - Then, the 'terraform plan' command to create an execution plan and then use 'terraform apply' to execute the plan
 
-   ```$ terraform validate
-      $ terraform apply`
+   ```sh
+   $ terraform validate
+   $ terraform apply
+   ```
 
 ## Result
 
-```$ terraform apply
+```sh
+$ terraform apply
 var.region
   Enter a value: yes
 
@@ -439,4 +442,5 @@ aws_route_table_association.private3: Creation complete after 7s [id=rtbassoc-0b
 aws_route_table_association.private2: Creation complete after 7s [id=rtbassoc-09d39f7fa40bb6b17]
 aws_route_table_association.private1: Creation complete after 7s [id=rtbassoc-0e74c30271f5fdd05]
 
-Apply complete! Resources: 18 added, 0 changed, 0 destroyed.`
+Apply complete! Resources: 18 added, 0 changed, 0 destroyed.
+```
