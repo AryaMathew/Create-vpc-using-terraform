@@ -10,8 +10,8 @@ It tells a file using [Data Sources](https://registry.terraform.io/providers/has
 ## Usage
 - Installation of [git](https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/aws-get-started)
 - Clone repo
-
-`$ git clone https://github.com/AryaMathew/Create-vpc-using-terraform.git
+- 
+`$ git clone https://github.com/AryaMathew/Create-vpc-using-terraform.git`
 
 $ cd Create-vpc-using-terraform/
 
